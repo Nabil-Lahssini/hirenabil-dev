@@ -3,219 +3,156 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Nabil Lahssini
+  tagline: Google Cloud Engineer
+  avatar: profile1.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: NabilLahssini@gmail.com
+  #phone: 012 345 6789
+  timezone: Europe/Brussels Timezone
+  citizenship: Belgian
+  website: hirenabil.dev #do not add http://
+  linkedin: nabil-lahssini
+  #xing: alandoe
+  github: Nabil-Lahssini
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
+  #bitbucket:
+  #twitter: '@webjeda'
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Professional
 
-        - idiom: French
-          level: Professional
+      - idiom: French
+        level: Native
 
-        - idiom: Spanish
-          level: Professional
+      - idiom: Dutch
+        level: Native
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+  # interests:
+  #   title: Certifications
+  #   info:
+  #     - item: Climbing
+  #       link:
 
-        - item: Snowboarding
-          link:
+  #     - item: Snowboarding
+  #       link:
 
-        - item: Cooking
-          link:
+  #     - item: Cooking
+  #       link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+  title: Profile
+  summary: |
+    Cloud engineer passionate about Cloud development. I started as a software engineer and developed my Cloud skills during my career.
 education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Education
+  info:
+    - degree: Bachelor in Computer Science
+      university: Erasmus Hogeschool Brussel
+      time: 2019 - 2022
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: Humane wetenschappen
+      university: Atheneum Brussel
+      time: 2013 - 2019
+      details: 
 experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+  title: Experiences
+  info:
+    - role: Cyber Security Intern
+      time: 2022 - 2022
+      company: Huawei, Brussels Cyber Security Center
+      details: |
+        Getting familiar with cyber security foundations:
+        - Learning the Huawei cyber security approach
+        - Learning the cyber security evaluation methodology used by our cyber security lab
+        - Learning management requirements and technical and engineer specifications including the Huawei Product Security Baseline
+    - role: Google Cloud Engineer Consultant
+      time: 2022 - Present
+      company: Devoteam G Cloud
+      details: |
+        As a Google Cloud Engineer at Devoteam G Cloud, your mission consists in modernising the application & infrastructure landscape of our clients by architecting & implementing solutions on Google Cloud. 
+        You will be involved in architecting and designing the best possible solutions for our clients by filling in the current gaps, focusing on crossing the bridge between the old and the new. 
+        You will be engaging with clients, stakeholders and employees in order to reshape the future of their business solutions. 
+        You will deep dive in concepts such as Anthos, Kubernetes and IaaS.
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Certifications
+  intro: >
+    My certifications
+  assignments:
+    - title: Associate Cloud Engineer
+      link: "https://www.credential.net/ff5c3c11-ba21-46ea-bae7-fda14fb0c933/"
+      tagline: "An Associate Cloud Engineer deploys applications, monitors operations, and manages enterprise solutions."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - title: Professional Cloud Developer
+      link: "https://www.credential.net/5a244595-7a0e-46b4-9964-ef619f1e04a0/"
+      tagline: "A Professional Cloud Developer builds scalable and highly available applications using Google-recommended tools and best practices."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - title: Professional Cloud DevOps Engineer
+      link: "https://www.credential.net/7b8fc39a-68ac-459e-9400-b4fd1113d8d3/"
+      tagline: "A Professional Cloud DevOps Engineer is responsible for efficient development operations that balance service reliability and delivery speed."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Devoteam G Cloud University
+      link: "https://eu.badgr.com/public/assertions/-kMrVZOvQSaXZt8Hx8ZoTQ/"
+      tagline: "The badge holder belongs to the Devoteam G Clouders who followed a 4 week immersive training around Google Cloud technologies through a series of labs, courses, projects and workshops delivered and designed by Devoteam’s very best experts around the globe."
 
 oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: OSS Contributions
+  intro: 
+  contributions:
+    - title: Looker terraform provider
+      link: "https://github.com/devoteamgcloud/terraform-provider-looker/"
+      tagline: "Terraform provider for looker, built without dependencies on official go-sdk. Autogenerated terraform docs available at Looker Documentation. "
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+  title: Publications
+  intro: |
+    Publications I wrote.
+  papers:
+    - title: Why do you need a Terraform provider? 
+      link: "https://gcloud.devoteam.com/blog/why-do-you-need-a-terraform-provider/"
+      authors: Nabil Lahssini
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+  toolset:
+    - name: Python
+      level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+    - name: Terraform
+      level: 98%
 
-      - name: Angular
-        level: 98%
+    - name: Docker
+      level: 97%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: Cloud development
+      level: 96%
 
-      - name: Ruby on Rails
-        level: 85%
+    - name: DevOps
+      level: 96%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    - name: Java
+      level: 90%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    - name: Golang
+      level: 90%
