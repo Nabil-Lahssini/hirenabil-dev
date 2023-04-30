@@ -99,6 +99,10 @@ projects:
   intro: >
     My certifications
   assignments:
+    - title: "HashiCorp Certified: Terraform Associate (002)"
+      link: "https://www.credly.com/badges/7a4a5b18-b858-44b1-a9a8-b6d7ee97388b"
+      tagline: "Earners of the HashiCorp Certified: Terraform Associate certification know the basic concepts, skills, and use cases associated with open source HashiCorp Terraform."
+
     - title: Associate Cloud Engineer
       link: "https://www.credential.net/ff5c3c11-ba21-46ea-bae7-fda14fb0c933/"
       tagline: "An Associate Cloud Engineer deploys applications, monitors operations, and manages enterprise solutions."
