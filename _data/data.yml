@@ -119,6 +119,11 @@ projects:
       link: "https://eu.badgr.com/public/assertions/-kMrVZOvQSaXZt8Hx8ZoTQ/"
       tagline: "The badge holder belongs to the Devoteam G Clouders who followed a 4 week immersive training around Google Cloud technologies through a series of labs, courses, projects and workshops delivered and designed by Devoteam’s very best experts around the globe."
 
+    - title: Professional Cloud Security Engineer
+      link: "https://google.accredible.com/9e362a4c-3e68-434c-b827-cf2e86c0039e"
+      tagline: "A Cloud Security Engineer enables organizations to design and implement secure workloads and infrastructure on Google Cloud."
+
+
 oss:
   title: OSS Contributions
   intro: 
