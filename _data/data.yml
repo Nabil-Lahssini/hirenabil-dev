@@ -100,19 +100,19 @@ projects:
     My certifications
   assignments:
     - title: "HashiCorp Certified: Terraform Associate (002)"
-      link: "https://www.credly.com/badges/7a4a5b18-b858-44b1-a9a8-b6d7ee97388b"
+      link: "https://www.credly.com/badges/7a4a5b18-b858-44b1-a9a8-b6d7ee97388b/"
       tagline: "Earners of the HashiCorp Certified: Terraform Associate certification know the basic concepts, skills, and use cases associated with open source HashiCorp Terraform."
 
     - title: Associate Cloud Engineer
-      link: "https://www.credential.net/ff5c3c11-ba21-46ea-bae7-fda14fb0c933/"
+      link: "https://google.accredible.com/ff5c3c11-ba21-46ea-bae7-fda14fb0c933/"
       tagline: "An Associate Cloud Engineer deploys applications, monitors operations, and manages enterprise solutions."
 
     - title: Professional Cloud Developer
-      link: "https://www.credential.net/5a244595-7a0e-46b4-9964-ef619f1e04a0/"
+      link: "https://google.accredible.com/5a244595-7a0e-46b4-9964-ef619f1e04a0/"
       tagline: "A Professional Cloud Developer builds scalable and highly available applications using Google-recommended tools and best practices."
 
     - title: Professional Cloud DevOps Engineer
-      link: "https://www.credential.net/7b8fc39a-68ac-459e-9400-b4fd1113d8d3/"
+      link: "https://google.accredible.com/7b8fc39a-68ac-459e-9400-b4fd1113d8d3/"
       tagline: "A Professional Cloud DevOps Engineer is responsible for efficient development operations that balance service reliability and delivery speed."
 
     - title: Devoteam G Cloud University
@@ -120,8 +120,12 @@ projects:
       tagline: "The badge holder belongs to the Devoteam G Clouders who followed a 4 week immersive training around Google Cloud technologies through a series of labs, courses, projects and workshops delivered and designed by Devoteam’s very best experts around the globe."
 
     - title: Professional Cloud Security Engineer
-      link: "https://google.accredible.com/9e362a4c-3e68-434c-b827-cf2e86c0039e"
+      link: "https://google.accredible.com/9e362a4c-3e68-434c-b827-cf2e86c0039e/"
       tagline: "A Cloud Security Engineer enables organizations to design and implement secure workloads and infrastructure on Google Cloud."
+
+    - title: Professional Cloud Architect
+      link: "https://google.accredible.com/7fe91a22-66b8-4658-a4d1-4a407817f0b5/"
+      tagline: "A Google Cloud Certified - Professional Cloud Architect enables organizations to leverage Google Cloud technologies. Through an understanding of cloud architecture and Google technology, this individual can design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives."
 
 
 oss:
@@ -160,8 +164,5 @@ skills:
     - name: DevOps
       level: 96%
 
-    - name: Java
-      level: 90%
-
-    - name: Golang
+    - name: API-driven development
       level: 90%
