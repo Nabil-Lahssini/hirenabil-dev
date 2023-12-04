@@ -127,6 +127,10 @@ projects:
       link: "https://google.accredible.com/7fe91a22-66b8-4658-a4d1-4a407817f0b5/"
       tagline: "A Google Cloud Certified - Professional Cloud Architect enables organizations to leverage Google Cloud technologies. Through an understanding of cloud architecture and Google technology, this individual can design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives."
 
+    - title: Professional Cloud Network Engineer
+      link: "https://google.accredible.com/3c601dec-b3f6-44df-aadf-7cc17d7667b8/"
+      tagline: "A Professional Cloud Network Engineer implements and manages network architectures in Google Cloud. This individual may work on networking or cloud teams with architects who design cloud infrastructure."
+
 
 oss:
   title: OSS Contributions
