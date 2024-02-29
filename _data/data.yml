@@ -137,6 +137,10 @@ projects:
       link: "https://google.accredible.com/3c601dec-b3f6-44df-aadf-7cc17d7667b8/"
       tagline: "A Professional Cloud Network Engineer implements and manages network architectures in Google Cloud. This individual may work on networking or cloud teams with architects who design cloud infrastructure."
 
+    - title: Professional Cloud Database Engineer
+      link: "https://google.accredible.com/f1f5ec5a-d69b-4843-b59f-2ac4f40e70d9"
+      tagline: "A Professional Cloud Database Engineer is a database professional with two years of Google Cloud experience and five years of overall database and IT experience."
+
 
 oss:
   title: OSS Contributions
